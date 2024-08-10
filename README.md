@@ -5,6 +5,8 @@ Overview
 
 In today's data-driven world, raw data stored in SQL databases often holds the key to powerful insights and predictive capabilities. However, transforming this data into a format that can be effectively used by machine learning models requires a systematic approach. This repository provides the tools, scripts, and methodologies needed to efficiently navigate this process, ensuring that you can turn your data into value-driven AI solutions.
 
+https://i0.wp.com/radacad.com/wp-content/uploads/2019/12/2019-12-19_10h19_30.png?resize=640%2C378&ssl=1
+
 # Key Features
 
 1. SQL Data Extraction
