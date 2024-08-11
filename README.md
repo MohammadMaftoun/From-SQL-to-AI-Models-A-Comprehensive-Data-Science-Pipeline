@@ -1,7 +1,8 @@
 # From SQL to AI Models: A Comprehensive Data Science Pipeline
 
 Welcome to the From SQL to AI Models repository, your ultimate guide to transforming raw SQL data into actionable AI models. This repository is designed to help data scientists, machine learning engineers, and developers build a robust data science pipeline that covers every aspect of the journey from SQL data extraction to deploying AI models in production environments.
-Overview
+
+# Overview
 
 In today's data-driven world, raw data stored in SQL databases often holds the key to powerful insights and predictive capabilities. However, transforming this data into a format that can be effectively used by machine learning models requires a systematic approach. This repository provides the tools, scripts, and methodologies needed to efficiently navigate this process, ensuring that you can turn your data into value-driven AI solutions.
 
