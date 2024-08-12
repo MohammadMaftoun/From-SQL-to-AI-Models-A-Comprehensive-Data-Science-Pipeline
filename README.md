@@ -18,7 +18,7 @@ In today's data-driven world, raw data stored in SQL databases often holds the k
 
 2. Data Preprocessing
 
-    Data Cleaning: Comprehensive methods for cleaning your SQL data, including handling null values, duplicates, and outliers.
+    Data Cleaning: Comprehensive methods for cleaning your SQL data, involving handling null values, duplicates, and outliers.
     Data Normalization: Techniques for transforming your data into a consistent format, essential for improving model accuracy.
     Data Transformation: Guidance on transforming categorical variables, scaling numerical features, and encoding data types for machine learning models.
 
