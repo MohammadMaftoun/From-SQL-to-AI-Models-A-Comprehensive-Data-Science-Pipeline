@@ -50,9 +50,10 @@ In today's data-driven world, raw data stored in SQL databases often holds the k
     Monitoring & Maintenance: Best practices for monitoring deployed models, handling model drift, and updating models as new data becomes available.
 
 # Getting Started
+
 # Prerequisites
 
-    Database Access: Ensure you have access to your SQL database and necessary credentials.
+    Database Access: Ensure you have access to your SQL database and necessary affirmations.
     Environment Setup: Detailed instructions on setting up a Python environment with all necessary libraries (e.g., Pandas, Scikit-learn, TensorFlow/PyTorch).
     Dependencies: Installation guide for all dependencies, ensuring a smooth start to your data science pipeline.
 
