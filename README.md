@@ -4,7 +4,7 @@ Welcome to the From SQL to AI Models repository, your ultimate guide to transfor
 
 # Overview
 
-In today's data-driven world, raw data stored in SQL databases often holds the key to strong insights and predictive capabilities. However, transforming this data into a format that can be effectively used by machine learning models requires a systematic approach. This repository provides the tools, scripts, and methodologies needed to efficiently navigate this process, ensuring that you can turn your data into value-driven AI solutions.
+In today's data-driven world, raw data stored in SQL databases is often key to strong insights and predictive capabilities. However, transforming this data into a format that machine learning models can effectively use requires a systematic approach. This repository provides the tools, scripts, and methodologies needed to efficiently navigate this process, ensuring that you can turn your data into value-driven AI solutions.
 
 ![SQAI](https://i0.wp.com/radacad.com/wp-content/uploads/2019/12/2019-12-19_10h19_30.png?resize=640%2C378&ssl=1)
 
@@ -19,7 +19,7 @@ In today's data-driven world, raw data stored in SQL databases often holds the k
 2. Data Preprocessing
 
     Data Cleaning: Comprehensive methods for cleaning your SQL data, involving handling null values, duplicates, and outliers.
-    Data Normalization: Techniques for transforming your data into a consistent format, essential for improving model accuracy.
+    Data Normalization: Techniques for transforming your data into a consistent format, are essential for improving model accuracy.
     Data Transformation: Guidance on transforming categorical variables, scaling numerical features, and encoding data types for machine learning models.
 
 3. Feature Engineering
@@ -78,4 +78,4 @@ This repository is perfect for:
 
 We welcome contributions! Whether you're fixing bugs, adding new features, or improving documentation, your efforts are appreciated. Please check the CONTRIBUTING.md file for contribution guidelines and start making an impact.
 
-Feel free to modify any section to better suit the specific details and goals of your project.
+Feel free to modify any section to better suit your project's specific details and goals.
