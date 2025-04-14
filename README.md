@@ -13,7 +13,7 @@ In today's data-driven world, raw data stored in SQL databases is often key to s
 1. SQL Data Extraction
 
     Automated Scripts: Ready-to-use SQL queries and scripts for extracting data from various types of SQL databases (e.g., MySQL, PostgreSQL, SQLite).
-    Best Practices: Tips and tricks for optimizing data extraction, ensuring minimal latency, and handling large datasets effectively.
+    Best Practices: Tips and tricks for optimizing data extraction, ensuring minimal latency, and managing large datasets effectively.
     Data Auditing: Tools for performing initial audits on the extracted data, identifying missing values, and ensuring data integrity.
 
 2. Data Preprocessing
