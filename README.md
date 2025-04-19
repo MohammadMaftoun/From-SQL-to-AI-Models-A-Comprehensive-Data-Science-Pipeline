@@ -19,7 +19,7 @@ In today's data-driven world, raw data stored in SQL databases is often key to s
 2. Data Preprocessing
 
     Data Cleaning: Comprehensive methods for cleaning your SQL data, involving handling null values, duplicates, and outliers.
-    Data Normalization: Techniques for transforming your data into a consistent format are essential for improving model accuracy.
+    Data Normalization: Techniques for transforming data into a consistent format are essential for improving model accuracy.
     Data Transformation: Guidance on transforming categorical variables, scaling numerical features, and encoding data types for machine learning models.
 
 3. Feature Engineering
@@ -53,7 +53,7 @@ In today's data-driven world, raw data stored in SQL databases is often key to s
 
 # Prerequisites
 
-    Database Access: Ensure you have access to your SQL database and necessary affirmations.
+    Database Access: Ensure you can access your SQL database and necessary permissions.
     Environment Setup: Detailed instructions on setting up a Python environment with all necessary libraries (e.g., Pandas, Scikit-learn, TensorFlow/PyTorch).
     Dependencies: Installation guide for all dependencies, ensuring a smooth start to your data science pipeline.
 
