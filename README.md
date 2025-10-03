@@ -78,4 +78,4 @@ This repository is perfect for:
 
 We welcome contributions! Whether you're fixing bugs, adding new features, or improving documentation, your efforts are appreciated. Please check the CONTRIBUTING.md file for contribution guidelines and start making an impact.
 
-Feel free to modify any section to suit your project's specific details and goals.
+Feel free to modify any section to suit your project's specific details and objectives.
