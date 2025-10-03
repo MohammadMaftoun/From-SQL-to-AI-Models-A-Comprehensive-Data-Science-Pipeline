@@ -53,7 +53,7 @@ In today's data-driven world, raw data stored in SQL databases is often crucial 
 
 # Prerequisites
 
-    Database Access: Ensure you can access your SQL database and necessary permissions.
+    Database Access: Ensure you can access your SQL database and critical permissions.
     Environment Setup: Detailed instructions on setting up a Python environment with all necessary libraries (e.g., Pandas, Scikit-learn, TensorFlow/PyTorch).
     Dependencies: Installation guide for all dependencies, ensuring a smooth start to your data science pipeline.
 
