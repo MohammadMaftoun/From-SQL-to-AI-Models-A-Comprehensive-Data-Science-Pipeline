@@ -458,16 +458,6 @@ Contributions are welcome! Please follow these guidelines:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-## 📞 Support
-
-For questions or issues:
-- Open an issue on GitHub
-- Email: support@example.com
-- Documentation: https://docs.example.com
-
----
-
 ## 🙏 Acknowledgments
 
 - NYC Taxi & Limousine Commission for the dataset
@@ -487,6 +477,6 @@ For questions or issues:
 
 **Project Status**: ✅ Production Ready
 
-**Last Updated**: November 2024
+**Last Updated**: November 2025
 
 **Version**: 1.0.0
