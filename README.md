@@ -19,7 +19,7 @@ In today's data-driven world, raw data stored in SQL databases is often crucial 
 2. Data Preprocessing
 
     Data Cleaning: Comprehensive methods for cleaning your SQL data, involving handling null values, duplicates, and outliers.
-    Data Normalization: Techniques for transforming data into a consistent format are essential for improving model accuracy.
+    Data Normalisation: Techniques for transforming data into a consistent format are essential for improving model accuracy.
     Data Transformation: Guidance on transforming categorical variables, scaling numerical features, and encoding data types for machine learning models.
 
 3. Feature Engineering
